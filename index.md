@@ -1,6 +1,6 @@
 ## Welcome to Yuchen ZHONG's Pages
 
-This is my [Quant Study](https://zycalix.github.io/_pages/_quant-study/Introduction.md) page to record knowledge and my thinking.
+This is my [Quant Study](https://ZycAlix.github.io/_pages/_quant-study/Introduction.md) page to record knowledge and my thinking.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
