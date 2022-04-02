@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Yuchen ZHONG's Pages
 
-You can use the [editor on GitHub](https://github.com/ZycAlix/ZycAlix.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is my [Quant Study](https://zycalix.github.io/Quant-Study.md) page to record knowledge and my thinking.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
